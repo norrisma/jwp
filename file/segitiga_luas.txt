@@ -1,0 +1,10 @@
+=============================================================================
+                                                        HASIL PERHITUNGAN LUAS SEGITIGA ANDA
+                                        =============================================================================
+                                        Tanggal Perhitungan     : 2022-06-03 
+                                        Jam Perhitungan         : 06:13:04 
+                                        Nilai Alas Segitiga     : 4 
+                                        Nilai Tinggi Segitiga   : 4
+                                        Rumus Luas Segitiga     : 0.5 x Alas Segitiga x Tinggi Segitiga
+                                                                0.5 x 4 x 4
+                                        Luas Segitiga           : 8

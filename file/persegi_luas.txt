@@ -1,0 +1,9 @@
+====================================================
+                                                HASIL PERHITUNGAN LUAS PERSEGI ANDA
+                                        ====================================================
+                                        Tanggal Perhitungan     : 2022-06-03 
+                                        Jam Perhitungan         : 05:26:53 
+                                        Nilai Sisi Persegi      : 5 
+                                        Rumus Luas Persegi      : Sisi x Sisi
+                                                                5 x 5 
+                                        Luas Persegi            : 25
